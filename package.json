@@ -2,9 +2,9 @@
   "name": "getgrass-opener",
   "version": "1.0.0",
   "description": "https://github.com/cmalf",
-  "main": "CORE/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node CORE/index.js"
+    "start": "node index.js"
   },
   "author": "furqonflynn",
   "license": "MIT",
