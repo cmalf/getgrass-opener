@@ -1,0 +1,15 @@
+{
+  "name": "getgrass-opener",
+  "version": "1.0.0",
+  "description": "https://github.com/cmalf",
+  "main": "CORE/index.js",
+  "scripts": {
+    "start": "node CORE/index.js"
+  },
+  "author": "furqonflynn",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-real-browser": "^1.4.2",
+    "readline": "^1.3.0"
+  }
+}
